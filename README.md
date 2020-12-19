@@ -30,7 +30,7 @@ I am passionate about technologies and love to learn new things. </p>
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
-<h1 align='center'><i>Have nice Day!!</i></h1>
+<h1 align='center'><i>Have A nice Day!!</i></h1>
 <hr/>
 
 
