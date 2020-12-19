@@ -4,7 +4,7 @@
 I'm MayurBhowad.
 </p>
 <p align='center'>Portfolio: <a href="https://bm-mayur.herokuapp.com/sdf" target="_blank">bm_mayur</a> </p>
-[hello](https://bm-mayur.herokuapp.com/sdf){:target="_blank"}
+[Hello, world!](http://example.com/){target="_blank"}
 
 <h1 align='center'><i>Have nice Day!!</i></h1>
 
