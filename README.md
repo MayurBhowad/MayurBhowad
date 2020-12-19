@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<p align='center'>
+I'm MayurBhowad.
+</p>
+<p align='center'>Portfolio: </p>
+
+<h1 align='center'><i>Have nice Day!!</i></h1>
+
 <!--
 **MayurBhowad/MayurBhowad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
