@@ -5,8 +5,6 @@ I'm MayurBhowad.
 </p>
 <p align='center'>Portfolio: <a href="https://bm-mayur.herokuapp.com/" target="_blank">bm_mayur</a> </p>
 
-<h1 align='center'><i>Have nice Day!!</i></h1>
-
 <p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> <b>Stockholm, Sweden</b>. </p>
 <h3>Things I code with</h3>
 <p>
@@ -29,6 +27,9 @@ I'm MayurBhowad.
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
+
+<h1 align='center'><i>Have nice Day!!</i></h1>
+
 
 <!--
 **MayurBhowad/MayurBhowad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
