@@ -5,6 +5,8 @@ I'm MayurBhowad.
 </p>
 <p align='center'>Portfolio: <a href="https://bm-mayur.herokuapp.com/" target="_blank">bm_mayur</a> </p>
 
+<hr />
+
 <p>Welcome to my page! </br> I'm Mayur Bhowad, Fullstack developer from India and currently living in <b>Mumbai, India</b>. </p>
 <h3>Things I code with</h3>
 <p>
@@ -28,6 +30,7 @@ I'm MayurBhowad.
 </p>
 
 <h1 align='center'><i>Have nice Day!!</i></h1>
+<hr/>
 
 
 <!--
