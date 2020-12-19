@@ -5,7 +5,7 @@ I'm MayurBhowad.
 </p>
 <p align='center'>Portfolio: <a href="https://bm-mayur.herokuapp.com/" target="_blank">bm_mayur</a> </p>
 
-<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<p>Welcome to my page! </br> I'm Mayur Bhowad, Fullstack developer from India and currently living in <b>Mumbai, India</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
