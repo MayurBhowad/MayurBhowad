@@ -7,7 +7,7 @@ I'm MayurBhowad.
 
 <hr />
 
-<p>Welcome to my page! </br> I'm Mayur Bhowad, Fullstack developer from India and currently living in <b>Mumbai, India</b>. 
+<p>Welcome to my page!! </br> I'm Mayur Bhowad, Fullstack developer from India and currently living in <b>Mumbai, India</b>. 
 I am passionate about technologies and love to learn new things. </p>
 <h3>Things I code with</h3>
 <p>
