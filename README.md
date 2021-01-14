@@ -9,7 +9,7 @@ I'm MayurBhowad.
 
 <p>Welcome to my page!! </br> I'm Mayur Bhowad, Fullstack developer from India and currently living in <b>Mumbai, India</b>. 
 I am passionate about technologies and love to learn new things. </p>
-<h3>Things I code with</h3>
+<h3>Tech's I code with</h3>
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
