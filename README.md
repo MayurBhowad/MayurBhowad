@@ -30,11 +30,10 @@ I am passionate about technologies and love to learn new things. </p>
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
-<!--
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayurBhowad&theme=radical" />
--->
 
-<h1 align='center'><i>Have A nice Day!!</i></h1>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayurBhowad&theme=radical" />
+
+<h1 align='center'><i>Have A nice Day!</i></h1>
 <hr/>
 
 
