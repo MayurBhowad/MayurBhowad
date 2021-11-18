@@ -30,6 +30,8 @@ I am passionate about technologies and love to learn new things. </p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Github" src="https://img.shields.io/badge/-github-black?style=rounded-square&logo=github&logoColor=white" />
+  
 </p>
 
 <h1 align='center'><i>Have A nice Day!</i></h1>
