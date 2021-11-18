@@ -29,6 +29,7 @@ I am passionate about technologies and love to learn new things. </p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="RxJs" src="https://img.shields.io/badge/-RxJs-%23B7178C?style=flat-square&logo=reactivex&logoColor=white" />
 </P>
 
 <p>
