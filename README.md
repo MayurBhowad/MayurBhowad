@@ -18,7 +18,8 @@ I am passionate about technologies and love to learn new things. </p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 <p>
-  <img alt="Postgresql" src="https://img.shields.io/badge/-postgresql-blue?style=rounded-square&logo=postgresql&logoColor=white" />
+  <img alt="MySql" src="https://img.shields.io/badge/-MySql-blue?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-blue?style=rounded-square&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
