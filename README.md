@@ -26,6 +26,7 @@ I am passionate about technologies and love to learn new things. </p>
 <p>
    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=rounded-square&logo=Node.js&logoColor=white" />
   <img alt="ExpressJs" src="https://img.shields.io/badge/ExpressJs-black?style=rounded-square&logo=express&logoColor=white" />
+  <img alt="Nestjs" src="https://img.shields.io/badge/-Nestjs-DD0031?style=rounded-square&logo=Nestjs&logoColor=white" />
 </p>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=rounded-square&logo=react&logoColor=white" />
