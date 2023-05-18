@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![](https://visitor-badge.glitch.me/badge?page_id=MayurBhowad.MayurBhowad)
+![Visitor Count](https://profile-counter.glitch.me/MayurBhowad/count.svg)
+
 
 
 <p align='center'>
