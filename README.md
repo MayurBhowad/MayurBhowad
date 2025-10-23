@@ -17,6 +17,7 @@ I am passionate about technologies and love to learn new things. </p>
 <p>
   <img alt="javascript" src="https://img.shields.io/badge/-javascript-yellow?style=rounded-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=rounded-square&logo=typescript&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-007ACC?style=rounded-square&logo=python&logoColor=white" />
 </p>
 <p>
   <img alt="MySql" src="https://img.shields.io/badge/-MySql-blue?style=rounded-square&logo=mysql&logoColor=white" />
@@ -28,6 +29,7 @@ I am passionate about technologies and love to learn new things. </p>
    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=rounded-square&logo=Node.js&logoColor=white" />
   <img alt="ExpressJs" src="https://img.shields.io/badge/ExpressJs-black?style=rounded-square&logo=express&logoColor=white" />
   <img alt="Nestjs" src="https://img.shields.io/badge/-Nestjs-DD0031?style=rounded-square&logo=Nestjs&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-DD0031?style=rounded-square&logo=Django&logoColor=White" />
 </p>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=rounded-square&logo=react&logoColor=white" />
