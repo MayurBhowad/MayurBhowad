@@ -1,69 +1,102 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mayur Bhowad</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MayurBhowad&label=Profile%20views&color=0e75b6&style=flat" alt="MayurBhowad" /> </p>
+<h3 align="center">
+  Senior Software Engineer · Backend · Systems · AI
+</h3>
 
-
-
-<p align='center'>
-I'm MayurBhowad.
-</p>
-<p align='center'>Portfolio: <a href="https://bm-mayur.vercel.app/" target="_blank">bm_mayur &#8594;</a> </p>
-
-<hr />
-
-<p>Welcome to my page!! </br> I'm Mayur Bhowad, Senior Software Engineer from India and currently living in <b>Mumbai, India</b>. 
-I am passionate about technologies and love to learn new things. </p>
-<h3>Tech's I code with</h3>
-<p>
-  <img alt="javascript" src="https://img.shields.io/badge/-javascript-yellow?style=rounded-square&logo=javascript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=rounded-square&logo=typescript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-007ACC?style=rounded-square&logo=python&logoColor=white" />
-</p>
-<p>
-  <img alt="MySql" src="https://img.shields.io/badge/-MySql-blue?style=rounded-square&logo=mysql&logoColor=white" />
-  <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-blue?style=rounded-square&logo=postgresql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=rounded-square&logo=mongodb&logoColor=white" />
+<p align="center">
+  <a href="https://bm-mayur.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-bm__mayur-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=MayurBhowad&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
+---
+
+## 👨‍💻 About Me
+
+I'm **Mayur**, a Senior Software Engineer from India 🇮🇳.
+
+I build backend systems, developer tools, data-intensive applications
+and AI-powered experiments.
+
+I enjoy building things from scratch and understanding
+**how things actually work underneath the abstraction.**
+
+> **Build it. Break it. Understand it. Improve it.**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
 <p>
-   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=rounded-square&logo=Node.js&logoColor=white" />
-  <img alt="ExpressJs" src="https://img.shields.io/badge/ExpressJs-black?style=rounded-square&logo=express&logoColor=white" />
-  <img alt="Nestjs" src="https://img.shields.io/badge/-Nestjs-DD0031?style=rounded-square&logo=Nestjs&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-DD0031?style=rounded-square&logo=Django&logoColor=White" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=rounded-square&logo=react&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=rounded-square&logo=redux&logoColor=white" />
-  <img alt="NextJs" src="https://img.shields.io/badge/NextJs-black?style=rounded-square&logo=next.js&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular 7+-DD0031?style=rounded-square&logo=angular&logoColor=white" />
-  <img alt="RxJs" src="https://img.shields.io/badge/-RxJs-%23B7178C?style=rounded-square&logo=reactivex&logoColor=white" />
-</P>
+
+### Backend
 
 <p>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=rounded-square&logo=docker&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=rounded-square&logo=git&logoColor=white" />
-   <img alt="Github" src="https://img.shields.io/badge/-github-black?style=rounded-square&logo=github&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=rounded-square&logo=github-actions&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=rounded-square&logo=heroku&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=rounded-square&logo=styled-components&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-<h1 align='center'><i>Have A nice Day!</i></h1>
-<hr/>
+### Databases
 
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
-<!--
-**MayurBhowad/MayurBhowad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Cloud & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayurBhowad&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## ⚡
+
+```python
+class Mayur:
+
+    role = "Senior Software Engineer"
+
+    interests = [
+        "Backend",
+        "Databases",
+        "Distributed Systems",
+        "AI",
+        "Developer Tools",
+    ]
+
+    philosophy = "Understand the fundamentals."
