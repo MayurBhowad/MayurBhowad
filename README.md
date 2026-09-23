@@ -41,29 +41,44 @@ scalability and correctness** matter.
 
 ## 🏗️ Engineering Focus
 
-```text
-Backend Engineering
-        │
-        ├── API Architecture
-        ├── Distributed Systems
-        ├── Async Processing
-        ├── Event-Driven Systems
-        └── Production Services
-                │
-                ▼
-        Data & Infrastructure
-                │
-        ├── Database Design
-        ├── Query Optimization
-        ├── Large-Scale Processing
-        ├── Caching
-        └── Cloud Infrastructure
-                │
-                ▼
-              AI
-                │
-        ├── LLM Applications
-        ├── RAG
-        ├── Tool Calling
-        ├── AI Agents
-        └── Local / Open Models
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ⚙️ Backend Engineering
+
+- API Architecture
+- Distributed Systems
+- Async Processing
+- Event-Driven Systems
+- Production Services
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🗄️ Data & Infrastructure
+
+- Database Design
+- Query Optimization
+- Large-Scale Processing
+- Caching
+- Cloud Infrastructure
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🤖 AI Systems
+
+- LLM Applications
+- RAG
+- Tool Calling
+- AI Agents
+- Local / Open Models
+
+</td>
+</tr>
+</table>
+
+---
