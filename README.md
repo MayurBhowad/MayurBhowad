@@ -15,40 +15,55 @@
 
 ## 👨‍💻 About Me
 
-I'm **Mayur**, a Senior Software Engineer from India 🇮🇳.
+I'm **Mayur Bhowad**, a Senior Software Engineer focused on building
+**backend systems, scalable applications, data-intensive platforms,
+developer tools, and AI-powered systems.**
 
-I build backend systems, developer tools, data-intensive applications
-and AI-powered experiments.
+My engineering work spans:
 
-I enjoy building things from scratch and understanding
-**how things actually work underneath the abstraction.**
+- Backend architecture and API design
+- High-volume data processing
+- Database architecture and performance
+- Distributed and asynchronous systems
+- Cloud infrastructure and production deployments
+- Developer tooling and internal platforms
+- AI, LLMs, RAG and agentic systems
+
+I enjoy working close to the fundamentals — understanding what happens
+**underneath the framework, database, runtime, and abstraction.**
+
+I'm particularly interested in systems where **performance, reliability,
+scalability and correctness** matter.
 
 > **Build it. Break it. Understand it. Improve it.**
 
-
 ---
 
-## 📊 GitHub
+## 🏗️ Engineering Focus
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayurBhowad&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## ⚡
-
-```python
-class Mayur:
-
-    role = "Senior Software Engineer"
-
-    interests = [
-        "Backend",
-        "Databases",
-        "Distributed Systems",
-        "AI",
-        "Developer Tools",
-    ]
-
-    philosophy = "Understand the fundamentals."
+```text
+Backend Engineering
+        │
+        ├── API Architecture
+        ├── Distributed Systems
+        ├── Async Processing
+        ├── Event-Driven Systems
+        └── Production Services
+                │
+                ▼
+        Data & Infrastructure
+                │
+        ├── Database Design
+        ├── Query Optimization
+        ├── Large-Scale Processing
+        ├── Caching
+        └── Cloud Infrastructure
+                │
+                ▼
+              AI
+                │
+        ├── LLM Applications
+        ├── RAG
+        ├── Tool Calling
+        ├── AI Agents
+        └── Local / Open Models
