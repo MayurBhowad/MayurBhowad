@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayur Bhowad</h1>
 
 <h3 align="center">
-  Senior Software Engineer · Backend · Systems · AI
+  Software Engineer · Backend · Systems · AI
 </h3>
 
 <p align="center">
