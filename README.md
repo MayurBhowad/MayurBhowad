@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Mayur Bhowad**, a Senior Software Engineer focused on building
+I'm **Mayur Bhowad**, a Software Engineer focused on building
 **backend systems, scalable applications, data-intensive platforms,
 developer tools, and AI-powered systems.**
 
