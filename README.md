@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me.
 
 I'm **Mayur Bhowad**, a Software Engineer focused on building
 **backend systems, scalable applications, data-intensive platforms,
